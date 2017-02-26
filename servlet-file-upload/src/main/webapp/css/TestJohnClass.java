@@ -6,6 +6,8 @@ public class TestJohnClass {
 
 		System.out.println("This is john travolta and dude u r doing well");
 
+		System.out.println("This is john travolta and dude u r doing well");
+
 	}
 
 }
