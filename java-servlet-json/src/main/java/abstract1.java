@@ -7,6 +7,9 @@ public class abstract1 {
 		String ad="This is my abstract";
 
 
+
+	
+
 	}
 
 }
