@@ -1,14 +1,15 @@
 package com.hmkcode;
 
-public class Test1 {
+public class prchanges1{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		System.out.println("thiese are my pr changes");
 
-		int a=24;
-		System.out.println("This is"+a);
 
+
+	
 
 	}
 

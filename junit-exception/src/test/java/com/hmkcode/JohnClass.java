@@ -11,6 +11,8 @@ public class JohnClass {
 		System.out.println("This is my class"+a);
 
 
+
+
 	}
 
 }
